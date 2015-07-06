@@ -1,0 +1,4 @@
+name: {{name}}
+main: {{ns-name}}.BukkurePlugin
+version: 0.1.0
+depend: [bukkure]
