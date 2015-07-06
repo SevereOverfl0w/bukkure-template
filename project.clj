@@ -1,4 +1,4 @@
-(defproject bukkure/lein-template "0.1.0-SNAPSHOT"
+(defproject bukkure/lein-template "0.2.0-SNAPSHOT"
   :description "A template for Bukkure plugins"
   :url "http://github.com/SevereOverfl0w/bukkure-template"
   :license {:name "Eclipse Public License"
