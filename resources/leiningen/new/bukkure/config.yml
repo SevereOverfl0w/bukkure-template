@@ -1,2 +1,2 @@
-{{name}}.enable true
-{{name}}.localization You have got won a %s!
+{{name}}.enable: true
+{{name}}.localization: You have got won a %s!
